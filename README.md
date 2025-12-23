@@ -7,3 +7,15 @@
 
 
 If anyone has the latest version of Xerin, please share a sample of its string encryption so I can create a decrypter for the new version as well.
+
+
+
+## ☕ Buy me a coffee if this project helped you
+
+If this project helped you & saved your time,
+you can support (optional):
+
+- Binance Pay ID: **140911780**
+- USDT (TRC20): **TFyhio2s19NCSRdMBt5dsHJjrNsBuhTp5s**
+
+Thank you for your support ❤️
